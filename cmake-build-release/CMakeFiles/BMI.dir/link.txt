@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/BMI.dir/main.c.o  -o BMI 
